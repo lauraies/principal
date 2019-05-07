@@ -1,5 +1,7 @@
 package viajes;
-
+/**
+ * Documentación incluida en el eclipse, comprobar cambios
+ */
 import java.time.LocalDate;
 import java.util.*;
 
